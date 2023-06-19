@@ -1,5 +1,5 @@
 title: Nord_H<sub>2</sub>ub &ndash; data collection
 
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
