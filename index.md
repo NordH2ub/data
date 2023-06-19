@@ -5,13 +5,13 @@ _____________________________________________________________
 ## Demand-side data
 This captures the different sectors.
 ### [Transportation](Demand Side/Transportation)
-### Heating
-### Industry
+### [Heating](Demand Side/Heating)
+### [Industry](Demand Side/Industry)
 
 
 _____________________________________________________________
 ## Supply-side data
 This captures the different energy carriers.
-### Electricity
-### Hydrogen
-### CO<sub>2</sub>
+### [Electricity](Supply Side/Electricity)
+### [Hydrogen](Supply Side/Hydrogen)
+### [CO<sub>2</sub>](Supply Side/CO2)
