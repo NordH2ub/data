@@ -1,1 +1,1 @@
-# Nord_H2ub &ndash; Data collection
+# Nord_H<sub>2</sub>ub &ndash; Data collection

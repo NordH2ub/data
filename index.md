@@ -1,5 +1,5 @@
-# Introduction to data sources used in Nord_H2ub project
-This collects the data sources used in the Nord_H2ub project.
+# Introduction to data sources used in Nord_H<sub>2</sub>ub project
+This collects the data sources used in the Nord_H<sub>2</sub>ub project.
 
 _____________________________________________________________
 ## Demand-side data
