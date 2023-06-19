@@ -14,4 +14,4 @@ _____________________________________________________________
 This captures the different energy carriers.
 ### [Electricity](_docs/supply/electricity)
 ### [Hydrogen](_docs/supply/hydrogen)
-### [CO<sub>2</sub>](_docs/supply/CO2)
+### [CO<sub>2</sub>](_docs/supply/co2)
