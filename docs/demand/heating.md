@@ -1,3 +1,2 @@
 # Heating data
-test
 
